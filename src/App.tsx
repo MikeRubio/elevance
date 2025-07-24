@@ -7,6 +7,7 @@ import { About } from '@/components/About'
 import { Contact } from '@/components/Contact'
 import { Footer } from '@/components/Footer'
 import { Toaster } from '@/components/ui/sonner'
+import { Products } from '@/components/Products'
 
 function App() {
   return (
@@ -14,6 +15,7 @@ function App() {
       <div className="min-h-screen bg-background text-foreground">
         <Navigation />
         <Hero />
+        <Products />
         <Services />
         <Technology />
         <About />

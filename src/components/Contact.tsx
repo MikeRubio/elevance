@@ -70,10 +70,11 @@ export function Contact() {
                   </div>
                   <div>
                     <p className="font-medium">Email</p>
-                    <p className="text-muted-foreground">hello@elevencedigital.co.uk</p>
+                    <p className="text-muted-foreground">support@elevancedigital.co.uk</p>
                   </div>
                 </div>
-                
+
+                {/*
                 <div className="flex items-center space-x-3">
                   <div className="w-10 h-10 bg-gradient-to-br from-blue-500/20 to-purple-500/20 rounded-lg flex items-center justify-center">
                     <Phone className="w-5 h-5 text-blue-400" />
@@ -83,14 +84,15 @@ export function Contact() {
                     <p className="text-muted-foreground">+44 20 7946 0958</p>
                   </div>
                 </div>
-                
+                */}
+
                 <div className="flex items-center space-x-3">
                   <div className="w-10 h-10 bg-gradient-to-br from-blue-500/20 to-purple-500/20 rounded-lg flex items-center justify-center">
                     <MapPin className="w-5 h-5 text-blue-400" />
                   </div>
                   <div>
                     <p className="font-medium">Location</p>
-                    <p className="text-muted-foreground">London, United Kingdom</p>
+                    <p className="text-muted-foreground">Chippenham, Wiltshire, United Kingdom</p>
                   </div>
                 </div>
               </CardContent>

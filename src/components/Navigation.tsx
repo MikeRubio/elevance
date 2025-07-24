@@ -17,6 +17,7 @@ export function Navigation() {
   }, [])
 
   const navItems = [
+    { name: 'Products', href: '#products' },
     { name: 'Services', href: '#services' },
     { name: 'Technology', href: '#technology' },
     { name: 'About', href: '#about' },
@@ -45,7 +46,7 @@ export function Navigation() {
               <Zap className="w-5 h-5 text-white" />
             </div>
             <span className="font-bold text-xl bg-gradient-to-r from-blue-400 to-purple-400 bg-clip-text text-transparent">
-              Elevence Digital
+              Elevance Digital
             </span>
           </div>
           
