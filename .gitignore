@@ -27,3 +27,6 @@ dist-ssr
 # md files
 CHANGES_TODAY.md
 PROJECT_STRUCTURE.md
+
+# Local Netlify folder
+.netlify
