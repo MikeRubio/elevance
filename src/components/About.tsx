@@ -5,27 +5,27 @@ export function About() {
   const stats = [
     {
       icon: Users,
-      number: "50+",
-      label: "Projects Delivered",
-      description: "Successful digital transformations"
+      number: "15+",
+      label: "Years Combined Experience",
+      description: "Full Stack web app development, Product, and UX design"
     },
     {
       icon: Award,
-      number: "100%",
-      label: "Client Satisfaction",
-      description: "Committed to excellence"
+      number: "",
+      label: "Award-Winning Innovation",
+      description: "Recognised at Global Hackathons for excellence in AI, accessibility, and impact-driven design."
     },
     {
       icon: Globe,
-      number: "15+",
-      label: "Countries Served",
-      description: "Global reach, local expertise"
+      number: "50+",
+      label: "Teams actively testing our products",
+      description: "Gathering feedback to refine and scale with confidence"
     },
     {
       icon: Clock,
       number: "24/7",
       label: "Support Available",
-      description: "Always here when you need us"
+      description: "Always here when you need us, don't hesitate to get in touch"
     }
   ]
 

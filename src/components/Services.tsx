@@ -1,4 +1,4 @@
-import { Code, Brain, Smartphone, Cloud, Database, Zap } from 'lucide-react'
+import { Code, BrainCircuit, Smartphone, Cloud, Database, Zap } from 'lucide-react'
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from '@/components/ui/card'
 
 export function Services() {
@@ -10,7 +10,7 @@ export function Services() {
       features: ["React & Next.js", "Node.js & Express", "TypeScript", "REST & GraphQL APIs"]
     },
     {
-      icon: Brain,
+      icon: BrainCircuit,
       title: "AI & Machine Learning Integration",
       description: "Intelligent features that enhance user experience and automate business processes.",
       features: ["Natural Language Processing", "Computer Vision", "Predictive Analytics", "AI Chatbots"]
