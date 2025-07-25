@@ -11,7 +11,7 @@ import { Products } from '@/components/Products'
 
 function App() {
   return (
-    <ThemeProvider defaultTheme="dark">
+    <ThemeProvider defaultTheme="light">
       <div className="min-h-screen bg-background text-foreground">
         <Navigation />
         <Hero />
@@ -24,7 +24,7 @@ function App() {
         <Toaster />
       </div>
     </ThemeProvider>
-  )
+  );
 }
 
 export default App

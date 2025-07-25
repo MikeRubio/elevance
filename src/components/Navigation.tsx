@@ -1,5 +1,5 @@
 import { useState, useEffect } from 'react'
-import { Menu, X, Code, Brain, Zap } from 'lucide-react'
+import { Menu, X, Zap } from "lucide-react";
 import { Button } from '@/components/ui/button'
 import { ThemeToggle } from '@/components/ThemeToggle'
 import { cn } from '@/lib/utils'

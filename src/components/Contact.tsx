@@ -99,7 +99,6 @@ Message: ${formData.message}
             of experts and let's discuss how we can elevate your business.
           </p>
         </div>
-
         <div className="grid grid-cols-1 lg:grid-cols-2 gap-12">
           <div className="space-y-8">
             <Card className="bg-gradient-to-br from-card/50 to-card/30 backdrop-blur-sm border-border/50">
@@ -166,7 +165,6 @@ Message: ${formData.message}
               </CardContent>
             </Card>
           </div>
-
           <Card className="bg-gradient-to-br from-card/50 to-card/30 backdrop-blur-sm border-border/50">
             <CardHeader>
               <CardTitle>Send us a message</CardTitle>
